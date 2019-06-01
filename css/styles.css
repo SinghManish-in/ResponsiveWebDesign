@@ -1,0 +1,71 @@
+html,body{
+    font-family: 'Unlock', cursive;
+}
+.bg-light{
+    background-color:INDIANRED !important;
+
+}
+.navbar-brand img {
+    width: 5vw;
+    height: 10vh;
+}
+.navbar-nav{
+    margin-right: 5vw;
+}
+.nav-item{
+    font-size: 15px;
+}
+.dropdown-menu {
+    font-size: 12px;
+}
+.nav-item.active a.nav-link {
+    color:black !important;
+    border-bottom: 1px solid white;
+}
+.nav-item a.nav-link:hover{
+    color: black !important;
+    border-bottom: 1px solid white;
+}
+.carousel-item img {
+    height: 400px;
+}
+.carousel-caption h3{
+    color: ivory !important;
+    margin-bottom: 32vh !important;
+    font-family: 'Raleway', helvetica, sans-serif;
+}
+.offers-section img{
+    max-height: 250px;
+}
+.fa{
+    font-size: 1.5em;
+    padding: 0.5em; 
+}
+footer{
+    background-color: INDIANRED !important;
+    color: #fff;
+}
+footer a{
+    color: #fff;
+}
+footer p{
+    margin-bottom: 0%
+}
+footer h4{
+    color: black
+}
+footer img {
+    width: 20vw;
+    height: 25vh;
+}
+.logo-text{
+    font-size: 1.2rem;
+    vertical-align: middle;
+    font-family: 'Suez one', helvetica, sans-serif;
+}
+.category-section img{
+    border: tan 2px solid;
+    max-height: 300px;
+    max-width: 250px;
+	background-color: pink;
+}
